@@ -1,0 +1,1 @@
+# list-of-square-and-cube-of-numbers
